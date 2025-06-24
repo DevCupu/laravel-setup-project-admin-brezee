@@ -8,6 +8,8 @@ Repositori ini berisi panduan dan template dasar untuk memulai project Laravel 1
 - Integrasi SB2 Admin Template untuk tampilan dashboard modern
 - Struktur project siap dikembangkan sesuai kebutuhan aplikasi
 
+![Deskripsi gambar](public/ss-admn.png)
+
 ## Prasyarat
 
 - PHP >= 8.2
@@ -68,6 +70,10 @@ Repositori ini berisi panduan dan template dasar untuk memulai project Laravel 1
     ```bash
     php artisan serve
     ```
+
+
+
+Pastikan file gambar sudah ada di path yang sesuai pada project Anda.
 
 ---
 
